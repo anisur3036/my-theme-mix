@@ -14,7 +14,7 @@
     "lodash.merge": "^4.6.0",
     "merge-config": "^2.0.0",
     "node-sass": "^4.14.1",
-    "nunjucks-html-loader": "github:lazabogdan/nunjucks-html-loader#front-matter",
+    "nunjucks-html-loader": "github:anisur3036/nunjucks-html-loader#master",
     "object-assign": "^4.1.1",
     "postcss-rtl": "^1.7.3",
     "sass": "^1.26.10",
